@@ -26,4 +26,3 @@ Aenean tincidunt elementum orci pharetra fringilla.
 */
 
 Input text must be in UTF-8 format.
-In order to run this program, execute run.bat and follow the instructions. 
