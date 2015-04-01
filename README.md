@@ -17,7 +17,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 "Pellentesque vel dui urna. Aenean vitae euismod augue." 
 
-Aliquam erat volutpat. "Cras sed molestie erat." Vivamus sit amet leo nec augue egestas ultricies. Quisque tempus, 
+Aliquam erat volutpat. 
+
+"Cras sed molestie erat." 
+
+Vivamus sit amet leo nec augue egestas ultricies. Quisque tempus, 
 quam sit amet porttitor aliquet, eros dolor mollis odio, vitae laoreet arcu nisi et dolor. 
 
 "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos." 
